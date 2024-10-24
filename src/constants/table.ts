@@ -1,0 +1,1 @@
+export const DEFAULT_COLUMN_SIZE = 100
